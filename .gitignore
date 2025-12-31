@@ -1,0 +1,19 @@
+# Editor and IDE artifacts
+.idea/
+.vscode/
+*.swp
+
+# Build outputs
+bin/
+dist/
+*.exe
+*.dll
+*.out
+
+# Go tooling
+coverage.out
+*.test
+
+# OS cruft
+.DS_Store
+Thumbs.db
