@@ -19,7 +19,7 @@ Observability in Go is usually:
 
 ---
 
-## What You Get (Guaranteed)
+## Vision (Guaranteed)
 
 Every service using `obs` gets:
 
